@@ -5,7 +5,16 @@
 
 i am a software engineer that interested in c++, python ,assembly language ,system analysis, web programming
 
-Skills:  HTML / CSS/PHP/C++/Assembly/System Analysis/design/python/software engineering
+Skills: 
+* HTML 
+* CSS
+* PHP
+* C++
+* Assembly
+* System Analysis
+* design
+* python
+* software engineering
 
 - 🔭 I’m currently working on this page. 
 
