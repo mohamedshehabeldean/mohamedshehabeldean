@@ -3,7 +3,7 @@
 
 i am a software engineer that interested in c++, python ,assembly language ,system analysis, web programming
 
-Skills: 
+#Skills: 
 * HTML 
 * CSS
 * PHP
