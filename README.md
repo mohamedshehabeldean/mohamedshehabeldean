@@ -26,7 +26,6 @@ Skills:
 
 ![Profile views](https://gpvc.arturio.dev/mohamedshehabeldean)
 
-![GitHub metrics](https://metrics.lecoq.io/mohamedshehabeldean)  
 
 
 
