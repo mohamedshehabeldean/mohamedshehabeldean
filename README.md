@@ -13,6 +13,7 @@ Skills:
 * design
 * python
 * software engineering
+* computer graphics (openGL)
 
 - 🔭 I’m currently working on this page. 
 
