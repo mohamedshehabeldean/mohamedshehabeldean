@@ -21,8 +21,6 @@ Skills:
 - 
  - [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedshehabeldean)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshehabeldean)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedshehabeldean&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/mohamedshehabeldean)
