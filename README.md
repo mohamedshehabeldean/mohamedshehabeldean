@@ -19,7 +19,6 @@ Skills:
 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohamedshehabeldean)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-sabry-551188259/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mohamed21646063)    
  
-- [![trophy](https://github-profile-trophy.vercel.app/?username=mohamedshehabeldean)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshehabeldean)](https://github.com/anuraghazra/github-readme-stats)
 
