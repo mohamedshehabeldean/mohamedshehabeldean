@@ -14,6 +14,7 @@ Skills:
 * python
 * software engineering
 * computer graphics (openGL)
+* neural networks
 
 - 🔭 I’m currently working on this page. 
 
