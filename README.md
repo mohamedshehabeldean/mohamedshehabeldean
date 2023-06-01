@@ -4,17 +4,18 @@
 i am a CS Student that interested in c++, python ,assembly language ,system analysis, web programming
 
 Skills: 
-* HTML 
-* CSS
-* PHP
-* C++
-* Assembly
 * System Analysis
 * design
 * python
 * software engineering
 * computer graphics (openGL)
 * neural networks
+* HTML 
+* CSS
+* PHP
+* C++
+* Assembly
+
 
 - 🔭 I’m currently working on this page. 
 
