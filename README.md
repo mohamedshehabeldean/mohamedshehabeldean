@@ -25,7 +25,6 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedshehabeldean&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mohamedshehabeldean)
 
 
 
