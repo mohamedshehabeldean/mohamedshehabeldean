@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is mohamed sabry
 
-(https://pbs.twimg.com/profile_images/1620087303988281350/wgUrypef.jpg)
+
 
 I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
 
