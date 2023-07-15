@@ -2,7 +2,7 @@
 
 
 
-I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
+### I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
 
 Skills: 
 * System Analysis
