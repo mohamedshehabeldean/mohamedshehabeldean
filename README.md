@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is mohamed sabry
 
-![I am GitHub Readme Generator's creator]([https://pbs.twimg.com/profile_images/1620087303988281350/wgUrypef.jpg](https://scontent.faly1-2.fna.fbcdn.net/v/t39.30808-6/242141485_388495986108153_3021754326501727459_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEI6ySn1X2fFTK0cwDQQWd_UofybZAX3htSh_JtkBfeG-QZWeO38DJqV9MLk0P324pwKKc6db4LQO8M-3NpDd8n&_nc_ohc=1hGLt4wYoHcAX9LAeN9&_nc_ht=scontent.faly1-2.fna&oh=00_AfCjszXeSFEQiLChgNGM0hVUUbOV-weysvDtC_jF08gQlQ&oe=64B75771))
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1620087303988281350/wgUrypef.jpg))
 
 I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
 
