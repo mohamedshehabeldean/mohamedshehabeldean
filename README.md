@@ -1,8 +1,8 @@
-### Hi there 👋, my name is mohamed sabry
+## Hi there 👋, my name is mohamed sabry
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1620087303988281350/wgUrypef.jpg)
 
-i am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
+I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
 
 Skills: 
 * System Analysis
