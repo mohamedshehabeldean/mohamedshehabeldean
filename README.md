@@ -3,17 +3,17 @@
 
 
 ### Frontend developer/mobile-App developer(Flutter) always eager to level up my skills and work on new challenges.
-I am a computer science student.
+### I am a computer science student.
 
 Skills: 
+* Frontend
+* Flutter
 * System Analysis
 * design
 * python
 * software engineering
 * computer graphics (openGL)
 * neural networks
-* HTML 
-* CSS
 * PHP
 * C++
 * Assembly
