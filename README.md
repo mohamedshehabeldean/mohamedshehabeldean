@@ -2,7 +2,8 @@
 
 
 
-### I am a Computer Science Student that interested in c++, python ,neural networks ,system analysis, web programming
+### Frontend developer/mobile-App developer(Flutter) always eager to level up my skills and work on new challenges.
+I am a computer science student.
 
 Skills: 
 * System Analysis
